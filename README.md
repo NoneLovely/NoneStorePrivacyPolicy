@@ -1,1 +1,1 @@
-# NoneStorePrivacyPolicy
+# NoneStore политика конфиденциальности
